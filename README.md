@@ -31,10 +31,10 @@ This project is a simple RESTful API for managing users. It provides basic CRUD 
 
 1. Clone the repository:
    ```bash 
-Step 1: Clone the reository git clone https://github.com/chirania-kunal/ZylentrixBDAssignment.git
-Step 2: cd ZylentrixBDAssignment
-Step 3: run : npm install
-Step 4: run : npm run dev
+- Step 1: Clone the reository git clone https://github.com/chirania-kunal/ZylentrixBDAssignment.git
+- Step 2: cd ZylentrixBDAssignment
+- Step 3: run : npm install
+- Step 4: run : npm run dev
 
 Below is the POSTMAN Documentation for the API ENDPOINTS AND SAMPLE RESPONSES
-https://documenter.getpostman.com/view/40305951/2sAYkEqet2
+- https://documenter.getpostman.com/view/40305951/2sAYkEqet2
