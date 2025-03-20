@@ -29,8 +29,7 @@ This project is a simple RESTful API for managing users. It provides basic CRUD 
 
 ### Installation Steps
 
-1. Clone the repository:
-   ```bash git clone https://github.com/chirania-kunal/ZylentrixBDAssignment.git
+- Clone the repository: git clone https://github.com/chirania-kunal/ZylentrixBDAssignment.git
 - Step 2: cd ZylentrixBDAssignment
 - Step 3: run : npm install
 - Step 4: run : npm run dev
